@@ -25,7 +25,7 @@ input:focus {
 	position: absolute;
 	left: 50%;
 	top: 50%;
-	margin: -250px 0px 0px -200px;
+	margin: 0px 0px 0px 0px;
 }
 .welcome {
 	width: 200px;
